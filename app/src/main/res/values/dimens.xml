@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text_size">70sp</dimen>
+    <dimen name="margin_startEnd">10dp</dimen>
+    <dimen name="padding_TopBottom">8dp</dimen>
+</resources>
