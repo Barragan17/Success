@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:background="@drawable/ic_gradient_bakcground_color"
-    tools:context=".IntroActivity">
+    tools:context=".activities.IntroActivity">
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
@@ -64,7 +64,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="@dimen/margin_startEnd"
                 android:layout_marginEnd="@dimen/margin_startEnd"
-                android:layout_marginTop="35dp"
+                android:layout_marginTop="45dp"
                 android:background="@drawable/ic_gradient_background_color_rounded"
                 android:foreground="?attr/selectableItemBackground"
                 android:gravity="center"
@@ -85,7 +85,7 @@
                 android:gravity="center"
                 android:paddingTop="@dimen/padding_TopBottom"
                 android:paddingBottom="@dimen/padding_TopBottom"
-                android:text="@string/sign_in"
+                android:text="@string/sign_up"
                 android:textColor="#2146C7"/>
 
         </LinearLayout>

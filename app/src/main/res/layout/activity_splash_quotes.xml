@@ -3,21 +3,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".activities.SplashActivity"
-    android:background="@drawable/ic_gradient_bakcground_color"
+    android:id="@+id/layout_quotes_splash"
     android:orientation="vertical"
-    android:gravity="center">
-    
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".activities.SplashQuotesActivity">
+
     <TextView
-        android:id="@+id/tv_title"
+        android:id="@+id/tv_quotes"
+        android:paddingStart="@dimen/padding_quotes"
+        android:paddingEnd="@dimen/padding_quotes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/app_name"
-        android:gravity="center"
+        android:textAlignment="center"
+        tools:text="Quotes"
+        android:textSize="@dimen/test_size_quotes"
         android:textColor="@android:color/white"
-        android:textStyle="bold"
-        android:textSize="@dimen/title_text_size"/>
-
+        android:textStyle="bold"/>
 
 </LinearLayout>

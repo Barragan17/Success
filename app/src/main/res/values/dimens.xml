@@ -3,4 +3,16 @@
     <dimen name="title_text_size">70sp</dimen>
     <dimen name="margin_startEnd">10dp</dimen>
     <dimen name="padding_TopBottom">8dp</dimen>
+    <dimen name="tv_text_size">18sp</dimen>
+    <dimen name="sign_margin_top">10dp</dimen>
+    <dimen name="input_text_size">16sp</dimen>
+    <dimen name="button_margin_startEnd">20dp</dimen>
+    <dimen name="margin_top">30dp</dimen>
+    <dimen name="btn_paddingTopBottom">8dp</dimen>
+    <dimen name="progress_dialog_content_padding">10dp</dimen>
+    <dimen name="progress_bar_size">50dp</dimen>
+    <dimen name="progress_text_marginStart">16dp</dimen>
+    <dimen name="progress_text_size">16sp</dimen>
+    <dimen name="test_size_quotes">30sp</dimen>
+    <dimen name="padding_quotes">15dp</dimen>
 </resources>

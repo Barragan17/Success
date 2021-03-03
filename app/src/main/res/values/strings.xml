@@ -3,4 +3,11 @@
     <string name="welcome">Welcome</string>
     <string name="description">Success and Motivate Together</string>
     <string name="sign_in">SIGN IN</string>
+    <string name="please_insert_name_and_password">Please Insert Name and Password</string>
+    <string name="please_insert_name_email_and_password">Please Insert Name, Email and Password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="name">Name</string>
+    <string name="please_wait">Please Wait....</string>
 </resources>
